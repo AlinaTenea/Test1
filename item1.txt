@@ -1,0 +1,7 @@
+Regression:
+When are added new functionalities to the app, the testers need to re-execute the tests, to verify that the initial state of the app is unchanged (all features).
+Retesting (Confirmation testing)
+1) The testers identify a bug - in a feature
+2) The bug is sent to developers
+3) The bug is fixed
+4) The testers re-execute the tests to see if the bug was fixed, is verified only the beahaviour of the bug mentioned. (this is retesting)

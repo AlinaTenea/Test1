@@ -1,0 +1,20 @@
+Title (short description): Sign up with a password which doesn't meet the requirements
+Build/Environment: Ubuntu 18.04, Chrome
+Priority: High
+Severity: High 
+Steps: 
+1. Access the sign up form
+2. Complete the email
+3. Complete a password that doesn't meet the requirements 
+4. Press the sign up button 
+5. Successfully sign up
+6. Receive an email to validate the email
+7. Click on the link
+8. Appear a page and the message Successfully created!
+Actual result: account has been created 
+Expected result: The password field should be red, can't press the sign up button 
+Date: 24.04.2019
+Assigned to: Developer1
+
+
+ 

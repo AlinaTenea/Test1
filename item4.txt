@@ -1,0 +1,10 @@
+Black-Box Testing: is a structural-based type of testing
+Categories:
+-Equivalence partioning 
+-Boundary values analysis
+-State transition 
+-Table decision
+White-Box:
+-include code testing
+-the code is visible 
+

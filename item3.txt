@@ -1,0 +1,20 @@
+V-model: 
+-is a sequential model 
+-a stage can begin only after the previous stage was fully completed
+-introduce the principle of early testing
+-introduce the test levels 
+-activities of development and testing can overlap sometimes
+-the defects can be detected early
+-is recommended for small projects when the requirements should be clear and well-known
+-if changes are required at the midleware, the all the documents need to be updated, for testing and for development
+Agile: 
+- is a incremental/iterative model 
+- suppose that the system is divided into some small pieces
+- each piece need to pass through the development stages: requirements analysis, design, building/code, testing and maintainance
+- the principles of agile: adaptability, flexibility, collaboration
+- the initial delivery cost is low
+- is flexible 
+- the time for product delivery is short 
+- the planning and design of the system should be very clear and well defined before divide the system in pieces
+- the testing activities are done through each phase for the each piece of the software
+- the features grow incrementally, are added from a release to another 

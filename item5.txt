@@ -1,0 +1,69 @@
+Functional Testing:
+A.
+1. I am a new user and I want to create an account
+2. I type the name 
+3. I introduce a valid email address.
+4. I introduce a password who meets the requirements (an upper leeter, a symbol, etc.)
+5. I press the sign up button 
+6 Successfully sign up
+7. I receive an email to validate my account
+8. I press the indicated link 
+9. Successfully created account
+ 
+B. 
+1. I am a new user and I want to create an account
+2. I type the name 
+3. I introduce a valid email address.
+4. I introduce a password who doesn't meet the requirements.
+5. The color is being red and appear the message "The password should must contain...."
+6. The button sign up can't be pressed. 
+
+C. 
+1. I am an user 
+2. I complete my email 
+3. I complete my password
+4. I press the sign in button
+5. Successfully signed in.
+5. I am in my account and I can see my profile. 
+
+D. 
+I am an user 
+I introduce my email
+I introduce a wrong password
+I receive a message "Email or password is wrong"
+I can't access my account
+
+E. 
+I am a new user 
+I want to log in with my facebook account 
+I press the f button 
+I introduce my credentials
+I press the sign up button 
+Successfully sign up
+I receive an email to validate my account
+I press the indicated link 
+Successfully created account
+
+F. 
+I am an user 
+I forgot my password 
+I click the reset your password button 
+I receive an email with a link to reset the password
+I clik on the link 
+A page appear
+I introduce the new password
+I confirm the new password
+I go to the sign in page 
+I introduce the my email and the new password 
+I press the sign in button 
+Successfully signed in
+
+
+Non-functional testing:
+- check how long it takes to load the page
+
+
+
+
+
+
